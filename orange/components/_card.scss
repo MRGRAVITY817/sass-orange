@@ -19,6 +19,12 @@
       text-decoration: underline;
     }
   }
+
+  img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+  }
 }
 
 // @debug "hello hoon";
