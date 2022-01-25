@@ -1,5 +1,6 @@
 // variables & functions
 @import "variables";
+@import "functions";
 
 // base & layout
 @import "base";
@@ -9,6 +10,7 @@
 
 // components (button, card, navbar)
 @import "components/card";
+@import "components/button";
 
 // grid system
 
